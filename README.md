@@ -13,7 +13,7 @@ This project demonstrates a basic Flutter app that integrates with an external w
 
 ## Setup
 
-For detailed instructions on setting up the Flutter environment, configuring the project, and handling common errors during the setup process, please refer to the [installation documentation](link/to/your/documentation.doc) that is uploaded with the project in main branch of Repo.
+For detailed instructions on setting up the Flutter environment, configuring the project, and handling common errors during the setup process, please refer to the [installation documentation]([link/to/your/documentation.doc](https://github.com/abubakar0447/Basic-Flutter-app/blob/main/Flutter%20Installation%20-%20updated%20with%20android%20Emulator.docx)) that is uploaded with the project in the main branch of Repo.
 
 The documentation includes:
 - Step-by-step setup guide for the Flutter environment.
